@@ -7,3 +7,4 @@ version 1.0 from
 <BR>
 *Func:*
 > 1.download pics
+> 2.downloading text(completing)
